@@ -1,9 +1,9 @@
-# Google Authenticator for Android ChangeLog
+  Google Authenticator for Android ChangeLog
 
 
 ## v5.00
 
-* Support security key flow calling via Google Play Services FIDO U2F API.
+# Support security key flow calling via Google Play Services FIDO U2F API.
 * Support backup and restore for app preferences. (This will NOT preserve any
   OTP keys.)
 * Support long-press copy OTP codes into clipboard.
@@ -255,3 +255,4 @@
 
 
 ## v0.54
+ 
